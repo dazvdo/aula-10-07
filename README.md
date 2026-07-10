@@ -2,10 +2,10 @@
 
 Sem nada por enquanto. Volte mais tarde.
 
-Aqui haverá uma lista
+Tarefas para criar um repositório:
 
-- coisa 1 
-- coisa 2
-- coisa 3
+- Criar diretório
+- Colocar arquivos nele (pelo menos um README.md)
+- Inicializar o repositório (git init)
 
 E aqui uma explicação.
