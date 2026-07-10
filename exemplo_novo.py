@@ -1,0 +1,1 @@
+print("Exemplo dado em aula")
