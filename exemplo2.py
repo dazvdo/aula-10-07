@@ -1,0 +1,1 @@
+print("Exemplo n.2")
